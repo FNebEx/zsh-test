@@ -1,2 +1,3 @@
 # zsh-test
-Trying out the ZSH Git pl;ugin
+Trying out the ZSH Git plugin.
+
