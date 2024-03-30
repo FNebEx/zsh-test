@@ -1,1 +1,4 @@
 A text file in the first branch. 
+
+A new text file.
+ga - git add <file>
